@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enes Odabaş</h1>
 <h3 align="center">A passionate Mobil developer from Turkey</h3>
 
-<p align="left"> <a href="https://twitter.com/enessodbs" target="blank"><img src="https://img.shields.io/twitter/follow/enessodbs?logo=twitter&style=for-the-badge" alt="enessodbs" /></a> </p>
-
 - 🔭 I’m currently working on **Flutter & Dart & Java**
 
 - 📫 How to reach me **enesodabas5234@gmail.com**
@@ -20,4 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enessodbs&show_icons=true&locale=en&layout=compact" alt="enessodbs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enessodbs&show_icons=true&locale=en" alt="enessodbs" /></p>
-
