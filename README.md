@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Enes Odabaş</h1>
+<h1 align="center">Hi 👋, I'm Enes Odabas</h1>
 <h3 align="center">A passionate Mobil developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Flutter & Dart & Java**
