@@ -1,5 +1,6 @@
 # 💫 About Me:
-Gedik Üniversitesinde Bilgisayar Programcılığı okuyorum. İlgilendiğim diller Java ve C#. Java'yı kariyerimde ilerlemek istediğim yolda kullanmak istiyorum. C#'ı ise hobi olarak öğrendiğim Unity oyun geliştirme kısmında kullanmak istiyorum.<br>Öğrenim sürecimde Java ve Git Versiyon Kontrolleri üzerine sertifika aldım. <br>Java ile geliştirdiğim bazı demo projeleri profilimde bulabilirsiniz.
+Gedik Üniversitesinde Bilgisayar Programcılığı okuyorum. İlgilendiğim diller Java ve C#. Java'yı kariyerimde ilerlemek istediğim yolda kullanmak istiyorum. C#'ı ise hobi olarak öğrendiğim Unity oyun geliştirme kısmında kullanmak istiyorum.
+<br>Java ile geliştirdiğim bazı demo projeleri profilimde bulabilirsiniz.
 
 
 ## 🌐 Socials:
